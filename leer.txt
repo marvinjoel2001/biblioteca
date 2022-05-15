@@ -1,0 +1,3 @@
+jhonny Claros Rios
+usuario: admin
+password: admin
